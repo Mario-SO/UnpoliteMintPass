@@ -1,0 +1,11 @@
+{
+    "name": "UNPP",
+    "description": "The pass for the most unpolite NFT collections out there 🖕",
+    "image": "ipfs://bafkreifrrlvmjc74fh75ngrdmbs5i737q6ecsxd2h27oqxbsoranxgs3ki",
+    "attributes": [
+      {
+        "trait_type": "Unpoliteness",
+        "value": "OVER 9K"
+      }
+    ]
+  }
